@@ -1,0 +1,16 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "native",
+      "name": "D:\\Dani\\TRAZOS\\Profesor\\POO",
+      "project": ""
+    },
+    {
+      "type": "managed",
+      "name": "D:\\Dani\\TRAZOS\\Profesor\\POO(1)",
+      "project": ""
+    }
+  ]
+}
